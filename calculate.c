@@ -3,7 +3,7 @@
 #include <string.h>
 #include "calculate.h"
 // SECOND VERSION
-
+// THIRD VERSION
 float Calculate(float Numeral, char Operation[4])
 {
 float SecondNumeral;
